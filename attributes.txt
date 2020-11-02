@@ -1,0 +1,63 @@
+robert_lewandowski:
+	- niemiecka
+	- napastnik
+	- prawonozny
+	- europa
+	- polska
+	- sredni
+
+leo_messi:
+	- hiszpanska
+	- pomocnik
+	- lewonozny
+	- ameryka_poludniowa
+	- argentyna
+	- niski
+
+cristiano_ronaldo:
+	- wloska
+	- napastnik
+	- prawnozny
+	- europa
+	- portugalia
+	- sredni
+
+wojciech_szczesny:
+	- wloska
+	- bramkarz
+	- prawonozny
+	- europa
+	- polska
+	- wysoki
+
+manuel_neuer:
+	- niemiecka
+	- bramkarz
+	- prawonozny
+	- europa
+	- niemcy
+	- wysoki
+
+kevin_de_bruyne:
+	- angielska
+	- pomocnik
+	- obunozny
+	- europa
+	- belgia
+	- sredni
+
+aymeric_laporte:
+	- angielska
+	- obronca
+	- lewonozny
+	- europa
+	- francja
+	- wysoki
+
+sergio_ramos:
+	- hiszpanska
+	- obronca
+	- prawonozny
+	- europa
+	- hiszpania
+	- wysoki
